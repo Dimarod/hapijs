@@ -1,0 +1,5 @@
+con la h como parametro en el handler podemos usar metodos como h.response para un mensaje de respuesta
+y seguir con los metodos .code para el codigo de estado de la peticion
+.header para las cabeceras
+.type para el tipo de la respuesta entre otros
+
